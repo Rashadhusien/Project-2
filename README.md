@@ -1,4 +1,4 @@
- :HTML:
+ _HTML_:
   - Header (navbar)
   - Landing Section
   - Featrus
@@ -8,7 +8,7 @@
   - Contact
   - Footer
 
-  :CSS:
+  _CSS_:
    - Variables
    - Global Rules
    - components
@@ -21,7 +21,7 @@
    - scroll to top
    - animation
 
- :JS:
+ _JS_:
   - Variables
   - settings logic
   - switch colors
